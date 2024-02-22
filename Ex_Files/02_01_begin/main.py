@@ -8,9 +8,9 @@ if RUN_INDENTED:
 print(message)
 
 
-
 def my_function():
     greet = "Hello"
     return greet
+
 
 print(my_function())
